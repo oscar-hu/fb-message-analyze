@@ -4,4 +4,4 @@ Download message data from Facebook main website and place python files in "mess
 (Information must be downloaded in JSON format)
 
 For sentiment analysis in word usage analysis, run
-`pip install vaderSentiment`
+- `pip install vaderSentiment`
