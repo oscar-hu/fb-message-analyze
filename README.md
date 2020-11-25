@@ -9,4 +9,4 @@ For sentiment analysis in word usage analysis, run
 then
 
 - `git clone https://github.com/oscar-hu/fb-message-analyze.git`
-- `python mostConvosMonthly.py` or `python mostCommonWords.py`
+- `python3 mostConvosMonthly.py` or `python3 mostCommonWords.py`
